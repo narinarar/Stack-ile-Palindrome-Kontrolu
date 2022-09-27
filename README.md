@@ -1,0 +1,1 @@
+"# Stack-ile-Palindrome-Kontrolu" 
